@@ -41,11 +41,7 @@
 		"node-red-contrib-bigquery":"*",
 		"node-red-contrib-function-npm":"*",
 		"node-red-contrib-file-function-ext":"*",
-        "express": "4.x",
-        "firebase": "*",
-		"google-auth-library": "*",
-		"google-cloud": "*",
-		"moment": "*",
-        "node-red": "0.x"
+        	"express": "4.x",
+        	"node-red": "0.x"
     }
 }
